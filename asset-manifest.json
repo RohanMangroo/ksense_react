@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ksense_react/static/css/main.05b3dd2e.css",
+    "main.js": "/ksense_react/static/js/main.63d7814c.js",
+    "index.html": "/ksense_react/index.html",
+    "main.05b3dd2e.css.map": "/ksense_react/static/css/main.05b3dd2e.css.map",
+    "main.63d7814c.js.map": "/ksense_react/static/js/main.63d7814c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b3dd2e.css",
+    "static/js/main.63d7814c.js"
+  ]
+}
