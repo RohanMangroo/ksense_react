@@ -1,0 +1,20 @@
+/*============ Users Table =============*/
+.users-container {
+    width: calc(.25 * var(--main-container-width));
+}
+
+.users{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: #272727;
+}
+
+.users > .table-row {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.users > .highlight{
+    color: var(--main-color);
+}

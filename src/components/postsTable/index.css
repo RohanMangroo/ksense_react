@@ -1,0 +1,23 @@
+/*============ Posts Table =============*/
+.posts-container {
+    width: calc(.70 * var(--main-container-width));
+    background-color: var(--row-even-color);
+}
+
+.posts {
+    overflow-y: scroll;
+}
+
+.posts > .table-row{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100px;
+    padding: 10px;
+}
+
+.post-title {
+    color: rgb(31, 31, 31);
+    color: var(--main-color);
+    font-size: 17px;
+}
